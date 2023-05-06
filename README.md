@@ -1,1 +1,3 @@
 # landing-page
+Welcome to our webpage dedicated to the renowned American poet Emily Dickinson! 
+Here, we have curated a collection of four of her most beloved poems, accompanied by analysis and historical context. Emily Dickinson is known for her unique style, innovative use of punctuation, and profound insights into the human experience. Join us as we explore her poetry and gain a deeper appreciation for one of the greatest literary figures of all time.
